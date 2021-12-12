@@ -30,8 +30,8 @@ function App() {
           </div>
           <div className="bg">
 
-            <img src="https://raw.githubusercontent.com/panditamey/clock-light-dark-js/main/police_car.gif" alt="" className="car1" />
-            <img src="https://raw.githubusercontent.com/panditamey/clock-light-dark-js/main/police_car.gif" alt="" className="car2" />
+            <img src="https://raw.githubusercontent.com/panditamey/My-Website/main/public/bike1.png" alt="" className="car1" />
+            <img src="https://raw.githubusercontent.com/panditamey/My-Website/main/public/bike2.png" alt="" className="car2" />
 
           </div>
         </section>

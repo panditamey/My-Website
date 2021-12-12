@@ -31,7 +31,7 @@ function App() {
           <div className="bg">
 
             <img src="https://raw.githubusercontent.com/panditamey/clock-light-dark-js/main/bike2.png" alt="" className="car2" />
-//             <img src="https://raw.githubusercontent.com/panditamey/clock-light-dark-js/main/bike2.png" alt="" className="car2" />
+{/* <img src="https://raw.githubusercontent.com/panditamey/clock-light-dark-js/main/bike2.png" alt="" className="car2" />  */}
 
           </div>
         </section>
